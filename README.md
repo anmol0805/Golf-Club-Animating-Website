@@ -24,7 +24,10 @@ Contact:
 For any inquiries, please contact:
 
 ANMOL
-anmolt646@gmail.com
-https://www.linkedin.com/in/anmol646/
-https://www.instagram.com/_thakuranmol_/
+
+E-mail: anmolt646@gmail.com
+
+Linkedin:- https://www.linkedin.com/in/anmol646/
+
+Instagram:- https://www.instagram.com/_thakuranmol_/
 
