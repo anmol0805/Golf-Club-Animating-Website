@@ -2,9 +2,11 @@
 It's the amazing animating website project made up with HTML, CSS & JAVASCRIPT.
 
 Introduction-
+
 Sidcup Family Golf is a multipurpose golf facility passionate about technology, player development, and making golf fun and accessible to everyone. This repository holds the code for their website, showcasing various services and features.
 
 Features-
+
 Interactive Cursor Movement: Engage users with an interactive cursor effect.
 Dynamic Animations: Utilizes the GSAP library for smooth and dynamic animations.
 Responsive Design: Ensures a seamless experience on various screen sizes.
@@ -18,9 +20,11 @@ Screenshots- there are 2 screenshot of my project.
 
 
 Usage-
+
 Feel free to explore and customize the code according to your needs. You can add new features, modify styles, or extend the functionality to suit your requirements.
 
 Contact:
+
 For any inquiries, please contact:
 
 ANMOL
